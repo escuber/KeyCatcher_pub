@@ -1,5 +1,3 @@
-# KeyCatcher_pub
-Here’s a tightened, recruiter- and engineer-friendly version you can drop into a spec, README, or slide. I kept it crisp, concrete, and free of fancy punctuation.
 
 # KeyCatcher
 
